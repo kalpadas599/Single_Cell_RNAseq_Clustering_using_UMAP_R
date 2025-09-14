@@ -179,4 +179,6 @@ FeaturePlot(seurat_obj, features = c("CD3D", "MS4A1", "LYZ", "GNLY"))
 ## 📚 References
 [Seurat Documentation](https://satijalab.org/seurat/)<br>
 [10x Genomics PBMC Dataset](https://support.10xgenomics.com/single-cell-gene-expression/datasets)
+If you confortable with google docs
+[see here](https://docs.google.com/document/d/1yW413f-udT5Hbxer5RJtZVj4eeSyh-comGoXxN9Vc0w/edit?usp=sharing)
 
