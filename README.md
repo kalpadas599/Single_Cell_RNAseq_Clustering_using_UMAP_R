@@ -3,7 +3,6 @@
 This repository contains an R script for analyzing a single-cell RNA sequencing (scRNA-seq) dataset, specifically the **68k Peripheral Blood Mononuclear Cells (PBMCs) from Donor A**. The analysis pipeline uses the **Seurat** R package to perform key steps, from data loading to clustering and visualization.
 
 ---
-
 ## Prerequisites
 
 You'll need the following R packages installed to run this analysis:
